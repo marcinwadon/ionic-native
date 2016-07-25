@@ -121,6 +121,7 @@ export {
   Brightness,
   BLE,
   BluetoothSerial,
+  Camera,
   CameraPreview,
   Clipboard,
   DBMeter,
